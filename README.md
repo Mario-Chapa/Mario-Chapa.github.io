@@ -1,4 +1,5 @@
-Mario-Chapa.github.io
+A Blog with Jekyll
 =====================
 
-My Octopress Blog
+Trying fun stuff and powerfull stuff
+
